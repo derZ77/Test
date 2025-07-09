@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'rechner-lenkzeiten-v3';
+const CACHE_NAME = 'rechner-lenkzeiten-v4';
 const FILES_TO_CACHE = [
   './index.html',
   './manifest.json',
